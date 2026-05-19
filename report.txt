@@ -1,0 +1,13 @@
+Fetching EC2 Instances...
+--------------------------------
+Fetching S3 Buckets...
+--------------------------------
+Fetching IAM Users...
+-----------------
+|   ListUsers   |
++---------------+
+|  Bhuvana_13   |
+|  Bhuvana_aws  |
++---------------+
+--------------------------------
+Fetching Lambda Functions...
